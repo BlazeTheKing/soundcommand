@@ -1,3 +1,4 @@
+-- all rights reserved @BlazeTheKing
 theSounds = {}
 canOutputSound = true
 

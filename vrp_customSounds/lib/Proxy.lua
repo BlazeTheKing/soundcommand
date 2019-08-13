@@ -1,5 +1,6 @@
 -- PROXY CLIENT-SIDE VERSION (https://github.com/ImagicTheCat/vRP)
 -- Proxy interface system, used to add/call functions between resources
+-- all rights reserved @BlazeTheKing
 Proxy = {}
 
 local proxy_rdata = {}

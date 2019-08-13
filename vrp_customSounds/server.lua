@@ -1,5 +1,6 @@
+-- all rights reserved @BlazeTheKing
 theSounds = {
-	--{"comanda", "numeSunet"},
+	--{"command", "soundname"},
 	{"pulainmata", "pulainmata"},
 	{"abiscuze", "abiscuze"},
 	{"ainoroc", "ainoroc"},
